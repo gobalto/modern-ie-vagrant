@@ -5,6 +5,10 @@ Based on the virtual machine images released with the [Modern.IE project](http:/
 
 modern-ie-vagrant requires [Oracle Virtualbox](https://www.virtualbox.org/) and [Vagrant](http://vagrantup.com) be installed and in your path.
 
+###Mac OS X
+
+You can install these tools using `./install.sh` from Terminal program.
+
 ##Usage
 
 To list the available virtual machines
@@ -30,7 +34,7 @@ vagrant up IE11-Win7 IE10-Win7 IE9-Win7 IE8-Win7
 * IE10-Win7
 * IE10-Win8
 * IE11-Win10
-* IE11-Win7 
+* IE11-Win7
 * IE11-Win8.1
 * IE6-WinXP
 * IE7-Vista
